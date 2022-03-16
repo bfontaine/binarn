@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "z"
-version = "0.0.1"
+name = "spia"
+version = "0.0.2"
 description = ""
 authors = ["Baptiste Fontaine <b@ptistefontaine.fr>"]
 license = "MIT"
-homepage = "https://github.com/bfontaine/z"
-include = ["z/py.typed"]
+homepage = "https://github.com/bfontaine/spia"
+include = ["spia/py.typed"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
