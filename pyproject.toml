@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "spia"
+name = "binarn"
 version = "0.0.2"
 description = "Find arbitrary keys in deep dictionaries."
 authors = ["Baptiste Fontaine <b@ptistefontaine.fr>"]
 license = "MIT"
-homepage = "https://github.com/bfontaine/spia"
-include = ["spia/py.typed"]
+homepage = "https://github.com/bfontaine/binarn"
+include = ["binarn/py.typed"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

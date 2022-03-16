@@ -27,7 +27,7 @@ jobs:
         poetry install
     - name: Lint with Mypy
       run: |
-        poetry run mypy spia
+        poetry run mypy binarn
     - name: Test build
       run: |
         poetry build

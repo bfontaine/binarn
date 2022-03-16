@@ -1,4 +1,4 @@
-# spia Changelog
+# binarn Changelog
 
 ## 0.0.2 (2022/03/16)
 
