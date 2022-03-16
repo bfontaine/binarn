@@ -53,3 +53,4 @@ def find_one(source: Any, *, key: Any = _none, value: Any = _none) -> Optional[R
     """
     for res in find(source, key=key, value=value):
         return res
+    return None
