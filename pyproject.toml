@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "binarn"
-version = "0.0.2"
+version = "0.0.3"
 description = "Find arbitrary keys in deep dictionaries."
 authors = ["Baptiste Fontaine <b@ptistefontaine.fr>"]
 license = "MIT"
