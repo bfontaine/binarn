@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "spia"
 version = "0.0.2"
-description = ""
+description = "Find arbitrary keys in deep dictionaries."
 authors = ["Baptiste Fontaine <b@ptistefontaine.fr>"]
 license = "MIT"
 homepage = "https://github.com/bfontaine/spia"
